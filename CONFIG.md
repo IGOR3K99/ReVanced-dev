@@ -22,7 +22,7 @@ cli-source = "j-hc/revanced-cli"             # where to fetch cli from. default:
 # options like cli-source can also set per app
 rv-brand = "ReVanced Extended" # rebrand from 'ReVanced' to something different. default: "ReVanced"
 
-patches-version = latest" # 'latest', 'dev', or a version number. default: "latest"
+patches-version = "latest" # 'latest', 'dev', or a version number. default: "latest"
 cli-version = "latest"       # 'latest', 'dev', or a version number. default: "latest"
 
 [Some-App]
