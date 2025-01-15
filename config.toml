@@ -9,7 +9,7 @@ parallel-jobs = 1
 [Music]
 apkmirror-dlurl = "https://apkmirror.com/apk/google-inc/youtube-music/"
 build-mode = "both"
-version = "7.33.52"
+version = "7.31.52"
 
 [YouTube]
 apkmirror-dlurl = "https://apkmirror.com/apk/google-inc/youtube/"
