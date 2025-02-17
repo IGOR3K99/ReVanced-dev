@@ -1,6 +1,6 @@
 {
-  "version": "v19.50.40 (patches: 5.9.0)",
-  "versionCode": 10,
-  "zipUrl": "https://github.com/IGOR3K99/RVX-test/releases/download/10/youtube-revanced-magisk-v19.50.40-all.zip",
+  "version": "v19.50.41 (patches: 5.12.0)",
+  "versionCode": 15,
+  "zipUrl": "https://github.com/IGOR3K99/RVX-test/releases/download/15/youtube-revanced-magisk-v19.50.41-all.zip",
   "changelog": "https://raw.githubusercontent.com/IGOR3K99/RVX-test/update/build.md"
 }
