@@ -1,4 +1,5 @@
-YouTube: 19.50.41  
+YouTube (arm64-v8a): 20.02.40  
+YouTube (arm-v7a): 20.02.40  
 
 Install [Microg](https://github.com/ReVanced/GmsCore/releases) for non-root YouTube and YT Music APKs  
 Use [zygisk-detach](https://github.com/j-hc/zygisk-detach) to detach root ReVanced YouTube and YT Music from Play Store  
