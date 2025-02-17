@@ -10,4 +10,4 @@ parallel-jobs = 1
 apkmirror-dlurl = "https://apkmirror.com/apk/google-inc/youtube-music/"
 arch = "both"
 build-mode = "both"
-version = "7.31.51"
+version = "8.06.51"
