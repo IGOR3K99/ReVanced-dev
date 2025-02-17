@@ -9,4 +9,4 @@ parallel-jobs = 1
 [YouTube]
 apkmirror-dlurl = "https://apkmirror.com/apk/google-inc/youtube/"
 build-mode = "both"
-version = "19.50.41"
+version = "20.02.40"
