@@ -1,6 +1,6 @@
 {
-  "version": "v8.06.51 (patches: 5.12.0)",
-  "versionCode": 14,
-  "zipUrl": "https://github.com/IGOR3K99/RVX-test/releases/download/14/music-revanced-magisk-v8.06.51-arm-v7a.zip",
+  "version": "v8.11.50 (patches: 5.5.1)",
+  "versionCode": 21,
+  "zipUrl": "https://github.com/IGOR3K99/RVX-test/releases/download/21/music-revanced-magisk-v8.11.50-arm-v7a.zip",
   "changelog": "https://raw.githubusercontent.com/IGOR3K99/RVX-test/update/build.md"
 }
