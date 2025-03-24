@@ -6,8 +6,6 @@ parallel-jobs = 1
 
 # you can use rvmm-config-gen to generate a config
 
-cli-source = "inotia00/revanced-cli"
-
 [YouTube]
 apkmirror-dlurl = "https://apkmirror.com/apk/google-inc/youtube/"
 patches-source = "anddea/revanced-patches"
@@ -15,4 +13,4 @@ integrations-source = "anddea/revanced-integrations"
 rv-brand = "ReVanced"
 build-mode = "module"
 version = "20.10.40"
-patcher-args = "-OsettingsMenuIcon=revanced -OapplyToAll=true -OiconType=youtube "
+patcher-args = "-OsettingsMenuIcon=revanced -OiconType=youtube "
