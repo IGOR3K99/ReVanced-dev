@@ -6,6 +6,8 @@ parallel-jobs = 1
 
 # you can use rvmm-config-gen to generate a config
 
+cli-source = "inotia00/revanced-cli"
+
 [YouTube]
 apkmirror-dlurl = "https://apkmirror.com/apk/google-inc/youtube/"
 patches-source = "anddea/revanced-patches"
