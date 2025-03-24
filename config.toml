@@ -13,5 +13,5 @@ integrations-source = "inotia00/revanced-integrations"
 rv-brand = "ReVanced"
 arch = "both"
 build-mode = "both"
-version = "8.10.52"
+version = "8.10.51"
 
