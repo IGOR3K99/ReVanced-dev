@@ -6,12 +6,12 @@ parallel-jobs = 1
 
 # you can use rvmm-config-gen to generate a config
 
-[YouTube]
-apkmirror-dlurl = "https://apkmirror.com/apk/google-inc/youtube/"
+[Music]
+apkmirror-dlurl = "https://apkmirror.com/apk/google-inc/youtube-music/"
 patches-source = "anddea/revanced-patches"
 integrations-source = "anddea/revanced-integrations"
-rv-brand = "ReVanced"
+rv-brand = "anddea ReVanced"
+arch = "both"
 build-mode = "both"
-version = "20.10.40"
-excluded-patches = "'Visual preferences icons for YouTube'"
-patcher-args = "-OsettingsMenuIcon=revanced -OapplyToAll=true -OiconType=youtube -OgmsCoreVendorGroupId=youtube.revanced.igor3k99 "
+version = "8.11.50"
+patcher-args = "-OsettingsMenuIcon=revanced -OapplyToAll=true -OgmsCoreVendorGroupId=yt.music.revanced.igor3k99 "
