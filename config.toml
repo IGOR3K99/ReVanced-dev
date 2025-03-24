@@ -6,12 +6,11 @@ parallel-jobs = 1
 
 # you can use rvmm-config-gen to generate a config
 
-[Music]
-apkmirror-dlurl = "https://apkmirror.com/apk/google-inc/youtube-music/"
+[YouTube]
+apkmirror-dlurl = "https://apkmirror.com/apk/google-inc/youtube/"
 patches-source = "anddea/revanced-patches"
 integrations-source = "anddea/revanced-integrations"
 rv-brand = "ReVanced"
-arch = "both"
 build-mode = "both"
-version = "8.10.52"
-patcher-args = "-OsettingsMenuIcon=revanced -OapplyToAll=true "
+version = "20.10.40"
+patcher-args = "-OsettingsMenuIcon=revanced -OapplyToAll=true -OiconType=youtube "
