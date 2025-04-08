@@ -1,12 +1,16 @@
-YT-Music (arm64-v8a): 8.13.51  
-YT-Music (arm-v7a): 8.13.51  
-YouTube: 20.12.46  
+YT-Music-dev (arm64-v8a): 8.13.51  
+YT-Music-dev (arm-v7a): 8.13.51  
+YouTube-dev: 20.12.46  
 
-Install [Microg](https://github.com/ReVanced/GmsCore/releases) for non-root YouTube and YT Music APKs  
-Use [zygisk-detach](https://github.com/j-hc/zygisk-detach) to detach root ReVanced YouTube and YT Music from Play Store  
+Install [MicroG-RE](https://github.com/WSTxda/MicroG-RE/releases) for non-root YouTube/YouTube Music ReVanced APK  
 
-[revanced-magisk-module](https://github.com/j-hc/revanced-magisk-module)
+Use [zygisk-detach](https://github.com/j-hc/zygisk-detach) and [zygisk-detach-app](https://github.com/j-hc/zygisk-detach-app/releases) to detach root YouTube/YouTube Music ReVanced from Play Store  
+
+[ReVanced-dev](https://github.com/IGOR3K99/ReVanced-dev)
   
 CLI: j-hc/revanced-cli-5.0.0-all.jar  
-Patches: anddea/patches-3.6.0-dev.9.rvp  
-[Changelog](https://github.com/anddea/revanced-patches/releases/tag/v3.6.0-dev.9)  
+Patches: anddea/patches-3.6.0.rvp  
+[Changelog](https://github.com/anddea/revanced-patches/releases/tag/v3.6.0)
+
+Patches: anddea/patches-3.6.0.rvp  
+[Changelog](https://github.com/anddea/revanced-patches/releases/tag/v3.6.0)  
