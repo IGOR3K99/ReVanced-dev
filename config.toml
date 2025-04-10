@@ -24,4 +24,4 @@ rv-brand = "anddea ReVanced"
 patches-version = "dev"
 build-mode = "both"
 version = "20.12.46"
-excluded-patches = "Seekbar components"
+excluded-patches = '"Seekbar components"'
