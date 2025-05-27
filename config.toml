@@ -6,8 +6,17 @@ parallel-jobs = 1
 
 # you can use rvmm-config-gen to generate a config
 
-[TikTok-dev]
-apkmirror-dlurl = "https://apkmirror.com/apk/tiktok-pte-ltd/tik-tok-including-musical-ly/"
+[YT-Music-dev]
+apkmirror-dlurl = "https://apkmirror.com/apk/google-inc/youtube-music/"
+patches-source = "anddea/revanced-patches"
+integrations-source = "anddea/revanced-integrations"
 patches-version = "dev"
-arch = "arm64-v8a + armeabi-v7a"
-version = "40.1.3"
+arch = "both"
+build-mode = "both"
+version = "8.13.51"
+
+[YouTube-dev]
+apkmirror-dlurl = "https://apkmirror.com/apk/google-inc/youtube/"
+patches-version = "dev"
+build-mode = "both"
+version = "20.12.46"
