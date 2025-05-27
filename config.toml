@@ -9,5 +9,4 @@ parallel-jobs = 1
 [TikTok-dev]
 apkmirror-dlurl = "https://apkmirror.com/apk/tiktok-pte-ltd/tik-tok-including-musical-ly/"
 patches-version = "dev"
-arch = "both"
 version = "40.1.4"
