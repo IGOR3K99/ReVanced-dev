@@ -14,3 +14,9 @@ patches-version = "dev"
 arch = "both"
 build-mode = "both"
 version = "8.14.54"
+
+[YouTube-dev]
+apkmirror-dlurl = "https://apkmirror.com/apk/google-inc/youtube/"
+patches-version = "dev"
+build-mode = "both"
+version = "20.13.41"
