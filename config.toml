@@ -6,17 +6,8 @@ parallel-jobs = 1
 
 # you can use rvmm-config-gen to generate a config
 
-[YT-Music-dev]
-apkmirror-dlurl = "https://apkmirror.com/apk/google-inc/youtube-music/"
-patches-source = "anddea/revanced-patches"
-integrations-source = "anddea/revanced-integrations"
-patches-version = "dev"
-arch = "both"
-build-mode = "both"
-version = "8.14.54"
-
 [YouTube-dev]
 apkmirror-dlurl = "https://apkmirror.com/apk/google-inc/youtube/"
 patches-version = "dev"
 build-mode = "both"
-version = "20.13.41"
+version = "20.14.41"
