@@ -18,12 +18,12 @@ compression-level = 9                # module zip compression level
 remove-rv-integrations-checks = true # remove checks from the revanced integrations
 
 patches-source = "revanced/revanced-patches" # where to fetch patches bundle from. default: "revanced/revanced-patches"
-cli-source = "j-hc/revanced-cli"             # where to fetch cli from. default: "j-hc/revanced-cli"
+cli-source = "revanced/revanced-cli"             # where to fetch cli from. default: "j-hc/revanced-cli"
 # options like cli-source can also set per app
 rv-brand = "ReVanced Extended" # rebrand from 'ReVanced' to something different. default: "ReVanced"
 
 patches-version = "latest" # 'latest', 'dev', or a version number. default: "latest"
-cli-version = "latest"       # 'latest', 'dev', or a version number. default: "latest"
+cli-version = "dev"       # 'latest', 'dev', or a version number. default: "latest"
 
 [Some-App]
 app-name = "SomeApp" # if set, release name becomes SomeApp instead of Some-App. default is same as table name, which is 'Some-App' here.
