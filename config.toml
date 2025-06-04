@@ -8,9 +8,10 @@ parallel-jobs = 1
 
 [YouTube-dev]
 apkmirror-dlurl = "https://apkmirror.com/apk/google-inc/youtube/"
-patches-source = "anddea/revanced-patches"
-patches-integrations = "anddea/revanced-integrations"
+patches-source = "inotia00/revanced-patches"
+integrations-source = "inotia00/revanced-integrations"
+rv-brand = "ReVanced"
 patches-version = "dev"
 cli-source = "revanced/revanced-cli"
 build-mode = "both"
-version = "20.16.40"
+version = "20.15.38"
