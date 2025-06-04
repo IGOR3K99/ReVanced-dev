@@ -9,6 +9,7 @@ parallel-jobs = 1
 [YouTube-dev]
 apkmirror-dlurl = "https://apkmirror.com/apk/google-inc/youtube/"
 patches-version = "dev"
+cli-source = "revanced/revanced-cli"
 build-mode = "both"
 version = "20.13.41"
 
@@ -17,6 +18,7 @@ apkmirror-dlurl = "https://apkmirror.com/apk/google-inc/youtube-music/"
 patches-source = "anddea/revanced-patches"
 integrations-source = "anddea/revanced-integrations"
 patches-version = "dev"
+cli-source = "revanced/revanced-cli"
 arch = "both"
 build-mode = "both"
 version = "8.14.54"
