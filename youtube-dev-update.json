@@ -1,6 +1,6 @@
 {
-  "version": "v20.13.41 (patches: 5.26.0)",
-  "versionCode": 44,
-  "zipUrl": "https://github.com/IGOR3K99/ReVanced-dev/releases/download/44/youtube-dev-revanced-magisk-v20.13.41-all.zip",
+  "version": "v20.18.34 (patches: dev.1)",
+  "versionCode": 45,
+  "zipUrl": "https://github.com/IGOR3K99/ReVanced-dev/releases/download/45/youtube-dev-revanced-magisk-v20.18.34-all.zip",
   "changelog": "https://raw.githubusercontent.com/IGOR3K99/ReVanced-dev/update/build.md"
 }
