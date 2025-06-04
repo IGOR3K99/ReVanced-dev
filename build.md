@@ -1,4 +1,4 @@
-YouTube-dev: 20.17.39  
+YouTube-dev: 20.16.40  
 
 Install [MicroG-RE](https://github.com/WSTxda/MicroG-RE/releases) for non-root YouTube/YouTube Music ReVanced APK  
 
