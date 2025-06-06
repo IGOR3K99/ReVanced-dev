@@ -16,12 +16,3 @@ arch = "both"
 build-mode = "both"
 version = "8.19.52"
 
-[YouTube-dev]
-apkmirror-dlurl = "https://apkmirror.com/apk/google-inc/youtube/"
-patches-source = "anddea/revanced-patches"
-integrations-source = "anddea/revanced-integrations"
-cli-source = "inotia00/revanced-cli"
-rv-brand = "ReVanced"
-patches-version = "dev"
-build-mode = "both"
-version = "20.22.36"
