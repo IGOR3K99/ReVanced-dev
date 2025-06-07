@@ -13,7 +13,7 @@ integrations-source = "anddea/revanced-integrations"
 cli-source = "inotia00/revanced-cli"
 rv-brand = "ReVanced"
 patches-version = "dev"
-build-module = "both"
+build-mode = "both"
 version = "20.22.36"
 
 [YT-Music-dev]
