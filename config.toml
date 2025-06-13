@@ -8,6 +8,7 @@ parallel-jobs = 1
 
 [YouTube-dev]
 apkmirror-dlurl = "https://apkmirror.com/apk/google-inc/youtube/"
+uptodown-dlurl = "https://app.en.uptodown.com/android"
 patches-source = "anddea/revanced-patches"
 integrations-source = "anddea/revanced-integrations"
 cli-source = "revanced/revanced-cli"
