@@ -6,22 +6,7 @@ parallel-jobs = 1
 
 # you can use rvmm-config-gen to generate a config
 
-[YT-Music-dev]
-apkmirror-dlurl = "https://apkmirror.com/apk/google-inc/youtube-music/"
-patches-source = "anddea/revanced-patches"
-integrations-source = "anddea/revanced-integrations"
+[TikTok]
+apkmirror-dlurl = "https://apkmirror.com/apk/tiktok-pte-ltd/tik-tok-including-musical-ly/"
 patches-version = "dev"
-cli-source = "inotia00/revanced-cli"
-arch = "both"
-build-mode = "both"
-version = "8.25.53"
-
-[YouTube-dev]
-apkmirror-dlurl = "https://apkmirror.com/apk/google-inc/youtube/"
-patches-source = "anddea/revanced-patches"
-integrations-source = "anddea/revanced-integrations"
-cli-source = "inotia00/revanced-cli"
-rv-brand = "ReVanced"
-patches-version = "dev"
-build-mode = "both"
-version = "20.23.37"
+version = "40.6.15"
