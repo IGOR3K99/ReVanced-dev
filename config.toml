@@ -8,11 +8,11 @@ parallel-jobs = 1
 
 [YT-Music-dev]
 apkmirror-dlurl = "https://apkmirror.com/apk/google-inc/youtube-music/"
-patches-source = "anddea/revanced-patches"
-integrations-source = "anddea/revanced-integrations"
+patches-source = "revanced/revanced-patches"
+integrations-source = "revanced/revanced-integrations"
 patches-version = "dev"
 cli-source = "inotia00/revanced-cli"
 arch = "both"
 build-mode = "both"
-version = "8.30.52"
+version = "8.31.51"
 excluded-patches = "'Bypass image region restrictions'"
