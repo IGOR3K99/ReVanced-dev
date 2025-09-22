@@ -1,6 +1,6 @@
 {
-  "version": "v8.30.54 (patches: 3.13.0)",
-  "versionCode": 120,
-  "zipUrl": "https://github.com/IGOR3K99/ReVanced-dev/releases/download/120/yt-music-dev-revanced-magisk-v8.30.54-arm-v7a.zip",
+  "version": "v8.33.52 (patches: dev.6)",
+  "versionCode": 122,
+  "zipUrl": "https://github.com/IGOR3K99/ReVanced-dev/releases/download/122/yt-music-dev-revanced-magisk-v8.33.52-arm-v7a.zip",
   "changelog": "https://raw.githubusercontent.com/IGOR3K99/ReVanced-dev/update/build.md"
 }
