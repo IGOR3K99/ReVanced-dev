@@ -8,10 +8,10 @@ parallel-jobs = 1
 
 [YT-Music-dev]
 apkmirror-dlurl = "https://apkmirror.com/apk/google-inc/youtube-music/"
-patches-source = "anddea/revanced-patches"
-integrations-source = "anddea/revanced-integrations"
+patches-source = "revanced/revanced-patches"
+integrations-source = "revanced/revanced-integrations"
 patches-version = "dev"
-cli-source = "inotia00/revanced-cli"
+cli-source = "revanced/revanced-cli"
 arch = "both"
 build-mode = "both"
 version = "8.41.51"
