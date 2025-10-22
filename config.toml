@@ -8,6 +8,7 @@ parallel-jobs = 1
 
 [YT-Music-dev]
 apkmirror-dlurl = "https://apkmirror.com/apk/google-inc/youtube-music/"
+uptodown-dlurl = "https://youtube-music.en.uptodown.com/android/"
 patches-source = "revanced/revanced-patches"
 integrations-source = "revanced/revanced-integrations"
 patches-version = "dev"
