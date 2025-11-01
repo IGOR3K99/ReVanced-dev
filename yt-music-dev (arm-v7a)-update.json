@@ -1,6 +1,6 @@
 {
-  "version": "v8.43.53 (patches: dev.4)",
-  "versionCode": 156,
-  "zipUrl": "https://github.com/IGOR3K99/YT-Music-ReVanced-dev/releases/download/156/yt-music-dev-revanced-magisk-v8.43.53-arm-v7a.zip",
+  "version": "v8.43.53 (patches: 5.45.0)",
+  "versionCode": 157,
+  "zipUrl": "https://github.com/IGOR3K99/YT-Music-ReVanced-dev/releases/download/157/yt-music-dev-revanced-magisk-v8.43.53-arm-v7a.zip",
   "changelog": "https://raw.githubusercontent.com/IGOR3K99/YT-Music-ReVanced-dev/update/build.md"
 }
