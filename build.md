@@ -7,5 +7,5 @@ Use [zygisk-detach](https://github.com/j-hc/zygisk-detach) and [zygisk-detach-ap
 [YT-Music-ReVanced-dev](https://github.com/IGOR3K99/YT-Music-ReVanced-dev)
   
 CLI: revanced/revanced-cli-5.0.1-all.jar  
-Patches: revanced/patches-5.46.0-dev.5.rvp  
-[Changelog](https://github.com/revanced/revanced-patches/releases/tag/v5.46.0-dev.5)  
+Patches: revanced/patches-5.46.0-dev.7.rvp  
+[Changelog](https://github.com/revanced/revanced-patches/releases/tag/v5.46.0-dev.7)  
